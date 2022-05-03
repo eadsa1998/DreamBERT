@@ -1,0 +1,1 @@
+I was working on a chapter of my dissertation trying to insert citations and having continuing problems. They weren't formatting correctly. I began working on a different chapter and those citations seemed to be working fine.

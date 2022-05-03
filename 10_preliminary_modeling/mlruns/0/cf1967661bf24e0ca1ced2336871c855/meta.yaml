@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/bookw/Dropbox/Capstone/DreamBERT/20_preliminary_modeling/mlruns/0/cf1967661bf24e0ca1ced2336871c855/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: cf1967661bf24e0ca1ced2336871c855
+run_uuid: cf1967661bf24e0ca1ced2336871c855
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1636779123360
+status: 1
+tags: []
+user_id: bookw

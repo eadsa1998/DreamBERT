@@ -1,0 +1,1 @@
+There was a competition going on and I was doing some kind of computer work related to it. I was using an Excel spreadsheet, but it seems like I was only using one column. Each cell had a few sentences of text in it. I was editing the text in each cell to see if it could be cut down but also having it word-wrap and adjusting the alignment of the text in the cell.

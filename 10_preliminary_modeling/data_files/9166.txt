@@ -1,0 +1,1 @@
+Working on an Excel sheet. The top of each column had a date and I was rearranging the items in each column to make sure each item was in the correct column.

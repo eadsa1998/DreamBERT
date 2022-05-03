@@ -1,0 +1,1 @@
+I'm working in Excel, on just one spreadsheet. I am working with numbers in one column and then go to another column and work on numbers. I think I was comparing them for discrepancies. In a third column I typed yes or no, depending on whether or not there were discrepancies.

@@ -1,0 +1,1 @@
+I was working at the computer in an Excel spreadsheet. I was trying to figure out how to print the spreadsheet and show the row numbers but having the row numbers start with the actual data and not start by numbering the header row.

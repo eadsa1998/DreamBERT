@@ -1,0 +1,1 @@
+Working on an Excel spreadsheet. There were ten columns and ten rows. I highlighted one intersecting cell on each row a different color. I was working on a project for some person or company that I wouldn't normally be doing computer work for.
